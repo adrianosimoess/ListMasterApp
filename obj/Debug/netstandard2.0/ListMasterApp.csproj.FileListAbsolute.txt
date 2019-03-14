@@ -1,0 +1,13 @@
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/bin/Debug/netstandard2.0/ListMasterApp.deps.json
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/bin/Debug/netstandard2.0/ListMasterApp.dll
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/bin/Debug/netstandard2.0/ListMasterApp.pdb
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/PageMinhaLista.xaml.g.cs
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.AssemblyInfo.cs
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.dll
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.pdb
