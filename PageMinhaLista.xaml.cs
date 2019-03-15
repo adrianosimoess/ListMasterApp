@@ -13,7 +13,11 @@ namespace ListMasterApp
             "Item 03"
         });
 
+
         public PageMinhaLista(List<string> listaOregemDesconhecida)
+
+
+
         {
             InitializeComponent();
             minhaLista.ItemsSource = listaOregemDesconhecida;

@@ -8,6 +8,18 @@
                HorizontalOptions="Center" 
                VerticalOptions="CenterAndExpand" />
         
+        <Entry Placeholder="Digite aqui..." x:Name="valor_digitado"
+               Margin="20,10,20,20"/>
+            
+        <Button Text="Adicionar do Campo"
+                Font="20"
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand"
+                BackgroundColor="Fuchsia"
+                TextColor="Red"
+                Clicked="Handle_Clicked_2"
+                />
+        
         <Button Text="Adicionar"
                 HorizontalOptions="Center" 
                 VerticalOptions="CenterAndExpand" 
